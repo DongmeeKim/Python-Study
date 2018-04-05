@@ -100,3 +100,7 @@ print(cc) # name 키값이 사라져있다.
 
 m = cc.pop('gender','없음') # pop함수에서 디폴트값 주는 방법
 print(m)
+
+# 딕셔너리 항목 개수 
+length = len(cc)
+print(length)

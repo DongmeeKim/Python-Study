@@ -70,3 +70,8 @@ print(s ^ t)
 
 length = len(t)
 print(length)
+
+
+s = set("Good Morning")
+length = len(s)
+print(length)
