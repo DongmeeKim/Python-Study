@@ -45,6 +45,5 @@ for aa in member:
     aa.speak() 
 
 # speak 메소드 값을 각각 출력하는 경우
-
 s.speak()
 p.speak()
